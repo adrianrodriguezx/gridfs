@@ -1,0 +1,15 @@
+{
+  "name": "gridfs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "storeVideo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gridfs-stream": "^1.1.1",
+    "mongoose": "^5.2.17"
+  }
+}
